@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2015-05-06-ryuchansik"
+title: "2015-05-26-ryuchansik"
 date: 2015-05-26 16:51:00
 categories: jekyll update
 ---
