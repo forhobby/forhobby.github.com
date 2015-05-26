@@ -10,7 +10,7 @@ categories: jekyll update
 
 - 이것은 번호 없는 목록이다.
 - a
-- b
+- - b
 
 1. 이것은 번호 있는 목록이다.
 2. A
