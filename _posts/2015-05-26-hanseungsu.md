@@ -46,4 +46,8 @@ categories: jekyll update
 |  he  |  she | it  | their |
 
 
+
+Inline `code` has `back-ticks around` it.
+
+
 [1]: http://terms.naver.com/entry.nhn?docId=1087739&cid=40942&categoryId=31976
