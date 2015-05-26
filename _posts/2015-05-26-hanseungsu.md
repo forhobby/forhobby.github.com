@@ -11,7 +11,7 @@ categories: jekyll update
 
 1. 펜싱 : 검(劍)을 가지고 상대하는 두 경기자가 ‘찌르기’ 또는 ‘베기’ 등의 동작으로 승패를 겨루는 스포츠.
 [펜싱](http://terms.naver.com/entry.nhn?docId=1157868&cid=40942&categoryId=31981)
-![펜싱](http://dbscthumb.phinf.naver.net/2765_000_1/20131013154657989_VS7JW7BF3.jpg)
+![펜싱](http://www.dbscthumb.phinf.naver.net/2765_000_1/20131013154657989_VS7JW7BF3.jpg)
 
 
 ⋅⋅목록
