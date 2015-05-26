@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "2015-05-06-ryuchansik"
+title: "2015-05-26-ryuchansik"
 date: 2015-05-26 16:51:00
 categories: jekyll update
 ---
 
-# **이것은 제목이다.(볼드체)**
+# **이것은 제목이다.(볼드체)**'
+
 ## *이것은 소제목이다.(이탤릭체)*
+
 - 이것은 번호 없는 목록이다.
 - a
 - b
