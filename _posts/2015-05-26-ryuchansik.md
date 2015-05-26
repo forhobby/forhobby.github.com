@@ -28,4 +28,4 @@ categories: jekyll update
 | --------- | --- | ----- |
 | **it**        | *is*  | table |
 
-[한기대]: http://www.koreatech.ac.kr
+[한기대]:http://www.koreatech.ac.kr
