@@ -42,7 +42,6 @@ categories: jekyll update
 | gray | blue | red | green |
 | ---- | ---- | --- | ----- |
 |  I   |  my  | me  |  mine |
-| ---- | ---- | --- | ----- |
 |  he  |  she | it  | their |
 
 `코드` 영어론 `code`
