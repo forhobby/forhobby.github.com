@@ -19,7 +19,7 @@ categories: jekyll update
 
 [이것은 한기대의 인라인 링크이다](http://www.koreatech.ac.kr)
 
-[이것은 아우누리의 참조 링크이다.](아우누리)
+[이것은 아우누리의 참조 링크이다.](1)
 
 ![한기대 로고](http://www.alio.go.kr/upload/report/2015/04/09/2015040907037343/koreatech%EC%8B%AC%EB%B3%BC%EB%A7%88%ED%81%AC.gif)
 
@@ -29,6 +29,6 @@ categories: jekyll update
 | --------- | --- | ----- |
 | **it**        | *is*  | table |
 
-[아우누리]: http://portal.kut.ac.kr
+[1]: http://portal.kut.ac.kr
 
 
