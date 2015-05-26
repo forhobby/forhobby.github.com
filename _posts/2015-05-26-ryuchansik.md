@@ -17,13 +17,15 @@ categories: jekyll update
 
 > 이것은 인용문이다.
 
-[이것은 한기대의 인라인 링크이다](www.koreatech.ac.kr)
+[이것은 한기대의 인라인 링크이다](http://www.koreatech.ac.kr)
 [이것은 한기대의 참조 링크이다.](한기대)
 
-![한기대 로고]
+![한기대 로고](http://www.alio.go.kr/upload/report/2015/04/09/2015040907037343/koreatech%EC%8B%AC%EB%B3%BC%EB%A7%88%ED%81%AC.gif)
 
 \`이것은 코드이다\`
 
 | ryuchasik | has | Table |
 | --------- | --- | ----- |
 | **it**        | *is*  | table |
+
+[한기대]: http://www.koreatech.ac.kr
