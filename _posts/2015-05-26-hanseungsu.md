@@ -10,7 +10,13 @@ categories: jekyll update
 ## *다양한 스포츠*
 
 1. 펜싱 : 검(劍)을 가지고 상대하는 두 경기자가 ‘찌르기’ 또는 ‘베기’ 등의 동작으로 승패를 겨루는 스포츠.
+
+
+
 [펜싱](http://terms.naver.com/entry.nhn?docId=1157868&cid=40942&categoryId=31981)
+
+
+
 ![펜싱](http://imgnews.naver.com/image/076/2008/08/11/88l74135.jpg)
 
 
