@@ -7,19 +7,21 @@ categories: jekyll update
 
 # **이것은 제목이다.(볼드체)**
 ## *이것은 소제목이다.(이탤릭체)*
--이것은 번호 없는 목록이다.
--
--
+- 이것은 번호 없는 목록이다.
+- a
+- b
 
 1. 이것은 번호 있는 목록이다.
-2.
-3.
+2. A
+3. B
 
 > 이것은 인용문이다.
 
 [이것은 한기대의 인라인 링크이다](http://www.koreatech.ac.kr)
 
 [이것은 아우누리의 참조 링크이다.](1)
+
+[1]: http://portal.kut.ac.kr
 
 ![한기대 로고](http://www.alio.go.kr/upload/report/2015/04/09/2015040907037343/koreatech%EC%8B%AC%EB%B3%BC%EB%A7%88%ED%81%AC.gif)
 
@@ -28,7 +30,5 @@ categories: jekyll update
 | ryuchasik | has | Table |
 | --------- | --- | ----- |
 | **it**        | *is*  | table |
-
-[1]: http://portal.kut.ac.kr
 
 
