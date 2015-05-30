@@ -241,12 +241,12 @@ a:hover {
 
 post-theme {
   font-weight: 600;
-  font-size: 25px;
+  font-size: 1.25em;
   text-transform: uppercase;
 }
 
 .post-link {
-  margin-bottom: 0.4em;
+  margin-bottom: 1.25em;
 }
 
 .post-title {
