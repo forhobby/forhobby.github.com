@@ -239,19 +239,19 @@ a:hover {
   font-size: 1.1em;
 }
 
-post-theme {
+.post-theme {
   font-weight: 600;
   font-size: 1.25em;
   text-transform: uppercase;
 }
 
 .post-link {
-  margin-bottom: 1.25em;
+  margin-bottom: 0.75em;
 }
 
 .post-title {
   font-weight: 600;
-  font-size: 10px;
+  font-size: 1.25px;
   text-transform: uppercase;
 }
 
