@@ -240,9 +240,6 @@ a:hover {
 }
 
 .post-theme {
-  font-weight: 600;
-  font-size: 2.5em;
-  text-transform: uppercase;
   display: none;
 }
 
@@ -258,6 +255,9 @@ a:hover {
 
 .post-theme:hover{
   display: inline;
+  font-weight: 600;
+  font-size: 2.5em;
+  text-transform: uppercase;
 }
 
 .post-date {
