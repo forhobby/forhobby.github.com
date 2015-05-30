@@ -29,7 +29,7 @@
         <div class="posts">
           <ul class="posts-list">
             <li class="post-theme">
-              <a>영화</a>
+              <a>음악</a>
               <ul class="post-themee">
                 {% for post in site.posts %}
                   <li class="post-link">
@@ -37,15 +37,6 @@
                       <span class="post-date">{{ post.date | date_to_string }}</span>
                       {{ post.title }}
                     </a>
-              <li class="post-theme">
-               <a>음악</a>
-               <ul class="post-themee">
-                 {% for post in site.posts %}
-                   <li class="post-link">
-                     <a class="post-title" href="{{ post.url }}">
-                       <span class="post-date">{{ post.date | date_to_string }}</span>
-                       {{ post.title }}
-                     </a>
                    </li>
                 {% endfor %}
               </ul>
