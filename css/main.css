@@ -243,6 +243,7 @@ a:hover {
   font-weight: 600;
   font-size: 2.5em;
   text-transform: uppercase;
+  display: none;
 }
 
 .post-link {
@@ -253,6 +254,10 @@ a:hover {
   font-weight: 600;
   font-size: 1.25em;
   text-transform: uppercase;
+}
+
+.post-theme:hover{
+  display: inline;
 }
 
 .post-date {
