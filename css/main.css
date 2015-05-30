@@ -259,7 +259,7 @@ a:hover {
   display: none;
 }
 
-.post-themee:hover{
+.post-theme:hover .post-themee{
   display: inline;
 }
 
