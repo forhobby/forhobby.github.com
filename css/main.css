@@ -241,7 +241,7 @@ a:hover {
 
 .post-theme {
   font-weight: 600;
-  font-size: 2px;
+  font-size: 10px;
   text-transform: uppercase;
 }
 
@@ -251,7 +251,7 @@ a:hover {
 
 .post-title {
   font-weight: 600;
-  font-size: 1.25px;
+  font-size: 6px;
   text-transform: uppercase;
 }
 
