@@ -239,6 +239,10 @@ a:hover {
   font-size: 1.1em;
 }
 
+.post-theme {
+  margin-bottom: 0.75em;
+}
+
 .post-link {
   margin-bottom: 0.75em;
 }
