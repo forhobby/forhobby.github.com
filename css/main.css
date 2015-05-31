@@ -239,14 +239,28 @@ a:hover {
   font-size: 1.1em;
 }
 
+.post-theme {
+  font-weight: 600;
+  font-size: 1.25em;
+  text-transform: uppercase;
+}
+
 .post-link {
   margin-bottom: 0.75em;
 }
 
 .post-title {
   font-weight: 600;
-  font-size: 1.25em;
+  font-size: 1.25px;
   text-transform: uppercase;
+}
+
+.post-themee{
+  display: none;
+}
+
+.post-theme:hover .post-themee{
+  display: inline;
 }
 
 .post-date {
