@@ -9,7 +9,7 @@ categories: jekyll update
 
 
 ##1. 이터널 선샤인
-![이터널선샤인](http://movie.naver.com/movie/bi/mi/basic.nhn?code=38444)
+![이터널선샤인](http://movie.naver.com/movie/bi/mi/photoViewPopup.nhn?movieCode=38444)
 
 
 # **이것은 제목이다.(볼드체)**'
