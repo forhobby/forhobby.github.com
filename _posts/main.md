@@ -1,3 +1,10 @@
+---
+layout: post
+title: "블로그 소개글"
+date: 2015-05-26 23:20:00
+categories: jekyll update
+---
+
 # Forhobby
 
  저희 블로그는 무료하게 시간을 보내고 있는 현대인들을 위해 관심을 가질만한 취미 활동을 소개하고자 개설하였습니다.
