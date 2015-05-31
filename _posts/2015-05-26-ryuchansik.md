@@ -1,9 +1,16 @@
 ---
 layout: post
-title: "2015-05-26-ryuchansik"
+title: "어맛 이건 꼭봐야해"
 date: 2015-05-26 16:51:00
 categories: jekyll update
 ---
+
+#꼭 봐야하는 영화 10선
+
+
+##1. 이터널 선샤인
+![이터널선샤인](http://movie.naver.com/movie/bi/mi/basic.nhn?code=38444)
+
 
 # **이것은 제목이다.(볼드체)**'
 
