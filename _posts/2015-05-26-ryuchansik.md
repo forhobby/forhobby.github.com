@@ -30,6 +30,8 @@ categories: jekyll update
 <p>
 </p>
 > **"*제발.. 이 기억만은 남겨주세요..*"**
+
+![이터널선샤인2](http://movie.phinf.naver.net/20111222_2/1324523401736HiDNU_JPEG/movie_image.jpg?type=m665_443_2)
 <p>
 <hr>
 </hr>
