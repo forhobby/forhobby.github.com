@@ -178,3 +178,30 @@ categories: jekyll update
 ![파클3](http://movie.phinf.naver.net/20111222_15/1324527166343E1JHl_JPEG/movie_image.jpg?type=m665_443_2)
 
 ![파클4](http://movie.phinf.naver.net/20111223_25/1324628055751hAz2H_JPEG/movie_image.jpg?type=m665_443_2)
+
+<p>
+<hr>
+</hr>
+</p>
+##7. 위플래쉬 | 드라마 | 감독: 다미엔 차젤레 | 미국 | 106분
+<p>
+<hr>
+</hr>
+</p>
+![위플](http://movie.phinf.naver.net/20150226_168/1424932564346zCMPn_JPEG/movie_image.jpg)
+
+###줄거리 :
+####**최고의 드러머가 되기 위해서라면 무엇이든 할 각오가 되어있는 음악대학 신입생 앤드류는 우연한 기회로 누구든지 성공으로 이끄는 최고의 실력자이지만, 또한 동시에 최악의 폭군인 플렛처 교수에게 발탁되어 그의 밴드에 들어가게 된다. 폭언과 학대 속에 좌절과 성취를 동시에 안겨주는 플렛처의 지독한 교육방식은 천재가 되길 갈망하는 앤드류의 집착을 끌어내며 그를 점점 광기로 몰아넣는데… **
+<p>
+</p>
+###주관적 리뷰 :
+####**그저 음악영화가 아니다. 마지막 10분의 전율을 아직도 잊을 수 없다.**
+<p>
+</p>
+> **"*I'll Cue You!*"**
+
+![위플2](http://movie.phinf.naver.net/20150126_273/1422249815103P145v_JPEG/movie_image.jpg?type=m427_320_2)
+
+![위플3](http://movie.phinf.naver.net/20150227_168/1425011396192XnClK_JPEG/movie_image.jpg?type=m427_320_2)
+
+![위플4](http://movie.phinf.naver.net/20131217_294/1387263144114ppnqz_JPEG/movie_image.jpg?type=m427_320_2)
