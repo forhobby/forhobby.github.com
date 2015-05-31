@@ -35,7 +35,10 @@ categories: jekyll update
 </hr>
 </p>
 ##2. 그래비티 | 드라마,멜로 | 감독: 미셸 공드리 | 미국 | 107분
+<p>
 
+</p>
+![그래비티](http://movie.phinf.naver.net/20130909_201/1378711150956jP3Y3_JPEG/movie_image.jpg)
 
 # **이것은 제목이다.(볼드체)**'
 
