@@ -16,7 +16,8 @@ categories: jekyll update
 </p>
 ##1. 이터널 선샤인 | 드라마,멜로 | 감독: 미셸 공드리 | 미국 | 107분
 <p>
-
+<hr>
+</hr>
 </p>
 ![이터널선샤인](http://image.cine21.com/cine21/poster/2005/1005/M0010003_eternal_sunshine_p1.jpg)
 
@@ -43,7 +44,8 @@ categories: jekyll update
 </p>
 ##2. 그래비티 | SF | 감독: 조지 클루니 | 미국,영국 | 90분
 <p>
-
+<hr>
+</hr>
 </p>
 ![그래비티](http://movie.phinf.naver.net/20130909_201/1378711150956jP3Y3_JPEG/movie_image.jpg)
 
