@@ -65,10 +65,10 @@
             <li class="post-theme">
               <a>웹툰</a>
               <ul class="post-themee">
-                {% for post in site.posts %}
-                  <li class="movie-link">
-                    <a class="movie-title" href="{{ movie.url }}">
-                      <span class="movie-date">{{ post.date | date_to_string }}</span>
+                {% for movie in site.posts %}
+                  <li class="post-link">
+                    <a class="post-title" href="{{ post.url }}">
+                      <span class="post-date">{{ post.date | date_to_string }}</span>
                       {{ post.title }}
                     </a>
                    </li>
