@@ -15,7 +15,7 @@ categories: jekyll update
 
 네이마르 사포논란
 
-[네이마르](http://cfile22.uf.tistory.com/image/277C8E3951FF0EE90880DA)
+![네이마르](http://cfile22.uf.tistory.com/image/277C8E3951FF0EE90880DA)
 
 
 
