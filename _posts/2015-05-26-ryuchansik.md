@@ -83,13 +83,13 @@ categories: jekyll update
 <p>
 </p>
 ###주관적 리뷰 :
-####**숨막히는 정적의 절정.**
+####**발리우드 특유의 유쾌함 속 뼈있는 교훈.**
 <p>
 </p>
-> **"*Can you see them?*"**
+> **"*All Is Well*"**
 
-![그래비티2](http://movie.phinf.naver.net/20130912_136/1378953471423Vmjjh_JPEG/movie_image.jpg?type=m665_443_2)
+![세얼간이2](http://movie.phinf.naver.net/20111223_180/1324642251705GUqXT_JPEG/movie_image.jpg?type=m427_320_2)
 
-![그래비티3](http://movie.phinf.naver.net/20131023_92/1382520111380A80Xl_JPEG/movie_image.jpg?type=m665_443_2)
+![세얼간이3](http://movie.phinf.naver.net/20111223_160/1324642254757lpzDd_JPEG/movie_image.jpg?type=m427_320_2)
 
-![그래비티4](http://movie.phinf.naver.net/20131023_194/1382520666100iaQuC_JPEG/movie_image.jpg?type=m665_443_2)
+![세얼간이4](http://movie.phinf.naver.net/20111223_256/1324642256238nU8MP_JPEG/movie_image.jpg?type=m427_320_2)
