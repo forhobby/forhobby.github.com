@@ -29,7 +29,7 @@ categories: jekyll update
 ####**덤앤더머의 짐 캐리는 잊어라. 이 영화에서 짐 캐리의 진가를 볼 수 있을 것이다.**
 <p>
 </p>
-> **"*제발.. 이 기억만은 남겨주세요ccc..*"**
+> **"*제발.. 이 기억만은 남겨주세요ccanc..*"**
 
 ![이터널선샤인2](http://movie.phinf.naver.net/20111222_2/1324523401736HiDNU_JPEG/movie_image.jpg?type=m665_443_2)
 ![이터널선샤인3](http://pds7.egloos.com/pds/200710/11/06/e0070106_470d099e4465b.jpg)
