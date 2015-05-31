@@ -6,8 +6,16 @@ categories: jekyll update
 ---
 
 <p>
+<hr>
+</hr>
 </p>
+
 # sports center에 오신걸 환영합니다.
+
+<p>
+<hr>
+</hr>
+</p>
 
 ##  금주의 핫한 스포츠 소식
 
