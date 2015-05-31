@@ -43,12 +43,12 @@
             </li>
           </ul>
         </div>
-        <div class="posts">
-          <ul class="posts-list">
+        <div class="movie">
+          <ul class="movie-list">
             <li class="post-theme">
               <a>영화</a>
               <ul class="post-themee">
-                {% for post in site.posts.movie %}
+                {% for post in site.movie %}
                   <li class="post-link">
                     <a class="post-title" href="{{ post.url }}">
                       <span class="post-date">{{ post.date | date_to_string }}</span>
