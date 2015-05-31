@@ -71,3 +71,25 @@ categories: jekyll update
 <hr>
 </hr>
 </p>
+##3. 세얼간이 | 코미디,드라마 | 감독: 라지쿠마르 히라니 | 인도 | 141분
+<p>
+<hr>
+</hr>
+</p>
+![세얼간이](http://movie.phinf.naver.net/20111223_199/1324642248093tJNts_JPEG/movie_image.jpg)
+
+###줄거리 :
+####**천재들만 간다는 일류 명문대 ICE, 성적과 취업만을 강요하는 학교를 발칵 뒤집어 놓은 대단한 녀석 란초! 아버지가 정해준 꿈, `공학자`가 되기 위해 정작 본인이 좋아하는 일은 포기하고 공부만하는 파파보이 파르한! 찢어지게 가난한 집, 병든 아버지와 식구들을 책임지기 위해 무조건 대기업에 취직해야만 하는 라주! 친구의 이름으로 뭉친 `세 얼간이`! 삐딱한 천재들의 진정한 꿈을 찾기 위한 세상 뒤집기 한판이 시작된다!**
+<p>
+</p>
+###주관적 리뷰 :
+####**숨막히는 정적의 절정.**
+<p>
+</p>
+> **"*Can you see them?*"**
+
+![그래비티2](http://movie.phinf.naver.net/20130912_136/1378953471423Vmjjh_JPEG/movie_image.jpg?type=m665_443_2)
+
+![그래비티3](http://movie.phinf.naver.net/20131023_92/1382520111380A80Xl_JPEG/movie_image.jpg?type=m665_443_2)
+
+![그래비티4](http://movie.phinf.naver.net/20131023_194/1382520666100iaQuC_JPEG/movie_image.jpg?type=m665_443_2)
