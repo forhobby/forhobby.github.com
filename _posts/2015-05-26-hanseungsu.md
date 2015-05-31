@@ -7,13 +7,15 @@ categories: jekyll update
 
 <p>
 </p>
-# sports center에 오신걸 환영합니다.
+#sports center에 오신걸 환영합니다.
 
 ## 금주의 핫한 스포츠 소식
 
-### 1. 축구 
+### *1. 축구* 
+
 
 네이마르 사포논란
+
 
 ![네이마르](http://cfile22.uf.tistory.com/image/277C8E3951FF0EE90880DA)
 
