@@ -8,7 +8,7 @@ categories: jekyll update
 <hr>
 </hr>
 </p>
-#꼭 봐야하는 영화 10선
+#매우 주관적인 죽기전에 꼭 봐야하는 영화 10선
 
 <p>
 <hr>
