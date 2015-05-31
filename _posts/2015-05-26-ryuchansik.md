@@ -51,14 +51,14 @@ categories: jekyll update
 <p>
 </p>
 ###주관적 리뷰 :
-####**덤앤더머의 짐 캐리는 잊어라. 이 영화에서 짐 캐리의 진가를 볼 수 있을 것이다.**
+####**숨막히는 정적의 절정.**
 <p>
 </p>
-> **"*제발.. 이 기억만은 남겨주세요..*"**
+> **"*Can you see them?*"**
 
-![이터널선샤인2](http://movie.phinf.naver.net/20111222_2/1324523401736HiDNU_JPEG/movie_image.jpg?type=m665_443_2)
-![이터널선샤인3](http://pds7.egloos.com/pds/200710/11/06/e0070106_470d099e4465b.jpg)
-![이터널선샤인4](http://movie.phinf.naver.net/20111222_14/1324523398978eoy7a_JPEG/movie_image.jpg?type=m665_443_2)
+![그래비티2](http://movie.phinf.naver.net/20130912_136/1378953471423Vmjjh_JPEG/movie_image.jpg?type=m665_443_2)
+![그래비티3](http://movie.phinf.naver.net/20131023_92/1382520111380A80Xl_JPEG/movie_image.jpg?type=m665_443_2)
+![그래비티4](http://movie.phinf.naver.net/20131023_194/1382520666100iaQuC_JPEG/movie_image.jpg?type=m665_443_2)
 <p>
 <hr>
 </hr>
