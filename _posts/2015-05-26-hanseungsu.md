@@ -9,13 +9,13 @@ categories: jekyll update
 </p>
 # sports center에 오신걸 환영합니다.
 
-## 금주의 
+## 금주의 핫한 스포츠 소식
 
-1. 펜싱 : 검(劍)을 가지고 상대하는 두 경기자가 ‘찌르기’ 또는 ‘베기’ 등의 동작으로 승패를 겨루는 스포츠.
+### 1. 축구 
 
+네이마르 사포논란
 
-
-[펜싱](http://terms.naver.com/entry.nhn?docId=1157868&cid=40942&categoryId=31981)
+[네이마르](http://cfile22.uf.tistory.com/image/277C8E3951FF0EE90880DA)
 
 
 
