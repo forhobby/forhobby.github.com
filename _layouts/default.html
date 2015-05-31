@@ -25,64 +25,12 @@
         <div class="header">
           <h1 class="title"><a href="/"><img id="logo" src="/images/logo.png"></a></h1>
           <span class="tagline">A responsive Jekyll theme</span>
-        </div>
-        <div class="posts">
-          <ul class="posts-list">
-            <li class="post-theme">
-              <a>음악</a>
-              <ul class="post-themee">
-                {% for post in site.music %}
-                 <li class="post-link">
-                    <a class="post-title" href="{{ post.url }}">
-                      <span class="post-date">{{ post.date | date_to_string }}</span>
-                      {{ post.title }}
-                    </a>
-                   </li>
-                {% endfor %}
-              </ul>
-            </li>
-          </ul>
-        </div>
-        <div class="posts">
-          <ul class="posts-list">
-            <li class="post-theme">
-              <a>영화</a>
-              <ul class="post-themee">
-                {% for post in site.movie %}
-                  <li class="post-link">
-                    <a class="post-title" href="{{ post.url }}">
-                      <span class="post-date">{{ post.date | date_to_string }}</span>
-                      {{ post.title }}
-                    </a>
-                   </li>
-                {% endfor %}
-              </ul>
-            </li>
-          </ul>
-        </div>
         <div class="posts">
           <ul class="posts-list">
             <li class="post-theme">
               <a>웹툰</a>
               <ul class="post-themee">
                 {% for post in site.posts %}
-                  <li class="post-link">
-                    <a class="post-title" href="{{ post.url }}">
-                      <span class="post-date">{{ post.date | date_to_string }}</span>
-                      {{ post.title }}
-                    </a>
-                   </li>
-                {% endfor %}
-              </ul>
-            </li>
-          </ul>
-        </div>
-        <div class="posts">
-          <ul class="posts-list">
-            <li class="post-theme">
-              <a>스포츠</a>
-              <ul class="post-themee">
-                {% for post in site.posts.sports %}
                   <li class="post-link">
                     <a class="post-title" href="{{ post.url }}">
                       <span class="post-date">{{ post.date | date_to_string }}</span>
